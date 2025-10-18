@@ -1,6 +1,7 @@
 🛒 Blinkit Sales Analysis Dashboard
 
 📘 Project Overview
+
 The Blinkit Sales Analysis Dashboard is an interactive Power BI project designed to analyze sales performance across various item types, outlet categories, and establishment years.
 This dashboard provides valuable insights into total sales, product trends, and outlet contributions to help understand the business performance of Blinkit.
 
